@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Gaea Project
-tagline:          'per Eric Parga'
-description:      'Compendi de l&#39;univers literari d&#39;Eric Parga.</br><small>Fork del Hyde de <a href="https://twitter.com/mdo" target="_blank">@mdo</a> per <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</small>'
+tagline:          'por Eric Parga'
+description:      'Compendio del universo literario de Eric Parga.</br><small>Fork del Hyde de <a href="https://twitter.com/mdo" target="_blank">@mdo</a> para <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.</small>'
 url:              http://hacknug.github.io/
 baseurl:          /
 
@@ -29,8 +29,8 @@ collections:
   personajes:
     output:       true
   drogas:
-    output:       true
     title:        "Estoy En Puertomarte Sin Hilda"
+    output:       true
   religiones:
     output:       true
   microrrelatos:
