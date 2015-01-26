@@ -3,24 +3,23 @@ layout: page-masonry
 title: Masonry
 ---
 
-<div class="posts">
-  <p>Aquesta pàgina llista cada una de les col·leccions existents de la pàgina i enllaça a cada un dels seus elements.</p>
-  
-  {% for collection in site.collections %}
-    {% capture label %}{{ collection | first }}{% endcapture %}
-    {% assign words = label | split: '-' %}
-    <div class="cards">
-    {% if site.collections.[label].titulo != null %}
-    <h2>{{ site.collections.[label].titulo }}</h2>
-    {% else %}
-    <h2>{% for word in words %}{{ word | capitalize }}{% endfor %}</h2>
-    {% endif %}
-    {% assign ordenados = site.collections.[label].docs | sort: 'title' %}
-    {% for doc in ordenados %}
-      <li>
-        <a href="{{ doc.url }}">{{ doc.title }}</a>
-      </li>
-    {% endfor %}
-    </div>
-  {% endfor %}
+<div id='content'>
+	<div id='posts'>
+		<ul>
+			{% for post in site.categories.blog %}
+				<li class='post'>
+					{% if post.image %}
+						<a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
+					{% endif %}
+					<div class="postcontent">
+			<a href='{{post.url}}'><h1 class='post-title'>{{post.title}}</h1></a>
+						<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
+						
+						<div class='post-content'>{{post.summary}}</div>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div style='clear:both'></div>
 </div>
