@@ -7,7 +7,7 @@ title: Masonry
   <p>Aquesta pàgina llista cada una de les col·leccions existents de la pàgina i enllaça a cada un dels seus elements.</p>
   
   {% for collection in site.collections %}
-    {% if collection.titulo != null %}
+    {% if titulo != null %}
     {% capture titulo %}{{ collection | first }}{% endcapture %}
     {% assign words = titulo %}
     {% else  %}
@@ -15,7 +15,7 @@ title: Masonry
     {% assign words = label | split: '-' %}
     {% endif %}
     <div class="cards">
-    <p>{% collection.titulo %}</p>
+    <p>{% site.collections.[label].titulo %}</p>
     <h2>{% for word in words %}{{ word | capitalize }} {% endfor %}</h2>
     {% assign ordenados = site.collections.[label].docs | sort: 'title' %}
     {% for doc in ordenados %}
