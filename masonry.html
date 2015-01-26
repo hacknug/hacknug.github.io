@@ -15,7 +15,7 @@ title: Masonry
     {% assign words = label | split: '-' %}
     {% endif %}
     <div class="cards">
-    <p>{% site.collections.[label].titulo %}</p>
+    <p>{{ site.collections.[label].titulo }}</p>
     <h2>{% for word in words %}{{ word | capitalize }} {% endfor %}</h2>
     {% assign ordenados = site.collections.[label].docs | sort: 'title' %}
     {% for doc in ordenados %}
