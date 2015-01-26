@@ -29,7 +29,7 @@ collections:
   personajes:
     output:       true
   drogas:
-    title:        "Estoy En Puertomarte Sin Hilda"
+    titulo:        "Estoy En Puertomarte Sin Hilda"
     output:       true
   religiones:
     output:       true
