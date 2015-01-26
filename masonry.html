@@ -6,6 +6,19 @@ title: Masonry
 <div id='content'>
   <div id='posts'>
     <ul>
+    {% for doc in site.img %}
+      <li class='post'>
+        <img class='post-image' src="{{doc.url}}" />
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+  <div style='clear:both'></div>
+</div>
+
+<div id='content'>
+  <div id='posts'>
+    <ul>
     {% for collection in site.collections %}
       {% capture label %}{{ collection | first }}{% endcapture %}
       <li class='post'>
