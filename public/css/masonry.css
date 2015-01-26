@@ -1,7 +1,5 @@
-.cards {
-  width: 49%;
-  /* background-color: #111; */
-}
+.cards { width: 50%; }
+.grid-sizer { width: 50%; }
 
 .container {
   overflow-y: scroll;
