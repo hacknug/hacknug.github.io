@@ -7,7 +7,7 @@ title: Masonry
   <p>Aquesta pàgina llista cada una de les col·leccions existents de la pàgina i enllaça a cada un dels seus elements.</p>
   
   {% for collection in site.collections %}
-    {% if titulo != null %}
+    {% if collection.titulo != null %}
     {% capture titulo %}{{ collection | first }}{% endcapture %}
     {% assign words = titulo %}
     {% else  %}
