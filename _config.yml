@@ -28,6 +28,9 @@ github:
 collections:
   personajes:
     output:       true
+  drogas:
+    output:       true
+    title:        "Estoy En Puertomarte Sin Hilda"
   religiones:
     output:       true
   microrrelatos:
@@ -35,6 +38,4 @@ collections:
   fauna-y-flora:
     output:       true
   tecnologia:
-    output:       true
-  drogas:
     output:       true
