@@ -10,10 +10,10 @@ title: Masonry
     {% capture label %}{{ collection | first }}{% endcapture %}
     {% assign words = label | split: '-' %}
     <div class="cards">
-    {% if collection.titulo != null %}
+    {% if collection.titulo %}
     <h2>{{ site.collections.[label].titulo }}</h2>
     {% else %}
-    <h2>{% for word in words %} {{ word | capitalize }} {% endfor %}.</h2>
+    <h2>{% for word in words %}{{ word | capitalize }}{% endfor %}</h2>
     {% endif %}
     {% assign ordenados = site.collections.[label].docs | sort: 'title' %}
     {% for doc in ordenados %}
