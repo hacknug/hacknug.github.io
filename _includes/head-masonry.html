@@ -29,12 +29,21 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   
   <!-- Masonry -->
+  <script src="/js/jquery-2.1.3.min.js"></script>
+  <script src="/js/imagesloaded.pkgd.min.js"></script>
   <script src="/js/masonry.pkgd.min.js"></script>
   <script type="text/javascript">
-    var container = document.querySelector('.posts');
-    var msnry = new Masonry( container, {
-      columnWidth: '.grid-sizer',
-      itemSelector: '.cards',
-    });
+  	function applyTiles() {
+			var posts = $('#posts ul');
+			posts.imagesLoaded(function() {
+				$('#posts ul').masonry({ itemSelector : '.post' });;
+			});
+		}
+		$(function() {
+			applyTiles();
+		});
+		$(window).resize(function() {
+			applyTiles();
+		});
   </script>
 </head>
