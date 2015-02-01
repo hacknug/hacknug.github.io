@@ -25,6 +25,7 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
+# Colecciones
 collections:
   personajes:
     output:       true
@@ -39,3 +40,9 @@ collections:
     output:       true
   tecnologia:
     output:       true
+
+# Google Map Embed
+google_map_zoom: 16               # 1=Global zoom 18=Street Level
+google_map_view: satellite        # hybrid | satellite | roadmap
+google_map_height: 450            # Default map height. Width adjusts to container.
+google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
