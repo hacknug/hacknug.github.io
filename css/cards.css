@@ -18,7 +18,7 @@
 }
 
 #posts ul li img {
-  //width: 95%;
+  // width: 95%;
 }
 
 .post-title {
@@ -28,7 +28,8 @@
 }
 
 .post-image{
-  width: 250px;
+  width: 100%;
+  height: auto;
   box-shadow: 0 0px 0px #cccccc;
   border-radius: 0px;
   // margin: 10px 0px 10px 0px;
@@ -36,19 +37,19 @@
 
 .post-date {
   font-size: 11px;
-  color: #666;padding: 10px;
+  color: #666;
+  padding: 10px;
 }
 
 .post-content {
   margin-top: 10px;
   font-size: 13px;
-
   padding: 20px 30px;
   background: url('http://wpexplorer-demos.com/fabulous/wp-content/themes/wpex-fabulous/images/entry-meta-shadow.png') no-repeat scroll center top #FBFBFB;
   border-radius: 0px 0px 3px 3px;
 }
 
-.content,
+/* .content,
 .content.container {
   width: 60rem;
-}
+} */
