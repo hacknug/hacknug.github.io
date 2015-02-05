@@ -3,9 +3,11 @@ layout: page
 title: La Campana Armoniosa
 ---
 
+# 02 - La Campana Armoniosa
+
 Louis Peyton no discutía jamás en público los métodos con los cuales había burlado a la policía de la Tierra en una docena de duelos de ingenio y alarde, con la amenaza de la psicoprueba siempre aguardando, pero siempre frustrada. Desde luego habría sido una tontería, pero en sus momentos de mayor satisfacción, le venían ganas de dejar un testamento para abrir después de su muerte, en el que se viera bien claro que sus continuos éxitos se debían a su habilidad y no a la suerte.
 
-En ese testamento diría: «No se puede trazar un plan para encubrir un crimen sin que aparezca en él huella de su creador. Así que es preferible buscar en los acontecimientos algún plan ya existente y ajustar enton. ces a él tus propias acciones».
+En ese testamento diría: «No se puede trazar un plan para encubrir un crimen sin que aparezca en él huella de su creador. Así que es preferible buscar en los acontecimientos algún plan ya existente y ajustar entonces a él tus propias acciones».
 
 Con ese principio en la cabeza fue como Peyton planeó el asesinato de Albert Cornwell.
 
@@ -69,7 +71,7 @@ Peyton siguió caminando con paso invariable y Cornwell tuvo que correr para alc
 
 -¿Mitad y mitad? -preguntó Cornwell.
 
--De acuerdo ---contestó Peyton-. Adiós.
+-De acuerdo -contestó Peyton-. Adiós.
 
 Peyton prosiguió solo su paseo y consideró una vez más su plan de vida. A la edad de veintisiete años había comprado un trozo de terreno en las Rocosas, en el que algún antiguo propietario había construido una casa destinada a servir de refugio contra la amenaza de las guerras atómicas de dos siglos atrás, aunque en definitiva nunca llegaran a estallar. La casa había quedado, sin embargo, como el testimonio de un aterrado esfuerzo por autobastarse.	
 
@@ -93,7 +95,7 @@ El 1 de agosto, a las 12,01 de la noche, puso al máximo el campo de fuerza que 
 
 Y entonces cambió de plan. Deliberadamente se tomó ocho días de tiempo. Entretanto, fue destruyendo lenta y meticulosamente las provisiones que había adquirido para el mes de agosto. Empleó las cámaras pulverizadoras que servían para deshacerse de la basura de la casa. Eran unas cámaras de modelo avanzado, capaces de reducir todas las materias, hasta los metales y los silícatos, a un polvillo molecular impalpable y casi invisible. El exceso de energía que produjo el proceso fue arrastrado por el riachuelo de la montaña que atravesaba su propiedad. Durante una semana, el agua estuvo corriendo unos cinco grados más caliente de lo normal.
 
-El 9 de agosto, su aerodeslizador le llevó a un lugar de Wyoming, donde le aguardaban Cornwell y una nave espacial. La nave en sí representaba una cuestión delicada, por supuesto, ya que había unos hombres que la habían vendido, unos hombres que la habían transportado y habían ayudado a prepararla para el vuelo. Sin **embargó**, todos esos hombres no podían conducir más que a Cornwell; y Cornwell, pensó Peyton con un asomo de sonrisa en sus labios fríos, sería un punto muerto.
+El 9 de agosto, su aerodeslizador le llevó a un lugar de Wyoming, donde le aguardaban Cornwell y una nave espacial. La nave en sí representaba una cuestión delicada, por supuesto, ya que había unos hombres que la habían vendido, unos hombres que la habían transportado y habían ayudado a prepararla para el vuelo. Sin embargó, todos esos hombres no podían conducir más que a Cornwell; y Cornwell, pensó Peyton con un asomo de sonrisa en sus labios fríos, sería un punto muerto.
 
 El 10 de agosto, la nave espacial, con Peyton a los mandos y Cornwell -con su mapa- como pasajero, abandonó la superficie de la Tierra. Su campo de nogravedad era excelente. A pleno rendimiento, el peso de la nave quedaba reducido a menos de una onza. Las micropilas suministraban energía silenciosa y eficientemente; y sin llamas ni ruidos, la nave traspasó la atmósfera, se convirtió en un puntito, y desapareció.
 
@@ -127,7 +129,7 @@ La respuesta fue rápida, pero en plural. Peyton estudió las cartas lunares una
 
 -Los exploraremos todos -dijo Peyton-, empezando por el más cercano.
 
-Pasó el límite de la fase iluminada y se encontraron en la oscuridad de la noche. Después de eso, fueron saliendo a períodos cada vez más largos a la superficie lunar para acostumbrarse al eterno silencio y negrura, a los toscos puntos de las estrellas y a la raja luminosa que era la Tierra asomando en el borde del cráter, por encima de ellos. Dejaban unas huellas profundas e informes en el polvo reseco que no, se movía ni levantaba polvareda. Peyton se dio cuenta de ello por primera vez cuando salieron del cráter a plena luz de la Tierra gibosa. Eso fue al octavo día de su llegada a la Luna.
+Pasó el límite de la fase iluminada y se encontraron en la oscuridad de la noche. Después de eso, fueron saliendo a períodos cada vez más largos a la superficie lunar para acostumbrarse al eterno silencio y negrura, a los toscos puntos de las estrellas y a la raja luminosa que era la Tierra asomando en el borde del cráter, por encima de ellos. Dejaban unas huellas profundas e informes en el polvo reseco que no se movía ni levantaba polvareda. Peyton se dio cuenta de ello por primera vez cuando salieron del cráter a plena luz de la Tierra gibosa. Eso fue al octavo día de su llegada a la Luna.
 
 El frío lunar limitaba el tiempo que podían permanecer fuera de la nave en sus salidas. Sin embargo, cada día lograban estar más tiempo. A los once días de llegar, ya tenían descartado el CG-3 como posible depósito de las Campanas Armoniosas.
 
@@ -165,7 +167,7 @@ Doce horas más tarde, de madrugada aún, llegó la policía.
 
 El hombre que abrió la puerta se cruzó de manos sobre su barriga y agachó su sonriente cabeza dos o tres veces a modo de saludo. El que entró, H. Seton Davenport, del Departamento Terrestre de Investigación, miró incómodo en torno suyo.
 
-La estancia a la que había entrado era espaciosa y estaba sumida en la semioscuridad, salvo el rincón donde brillaba una lámpara de trabajo enfocada sobre una combinación de butaca y escritorio. Las paredes estaban cubiertas de filas de libro-films. Unos, mapas galácticos desplegados ocupaban un ángulo de la habitación, y en otro brillaba levemente una Lente Galáctica sobre un estante.
+La estancia a la que había entrado era espaciosa y estaba sumida en la semioscuridad, salvo el rincón donde brillaba una lámpara de trabajo enfocada sobre una combinación de butaca y escritorio. Las paredes estaban cubiertas de filas de libro-films. Unos mapas galácticos desplegados ocupaban un ángulo de la habitación, y en otro brillaba levemente una Lente Galáctica sobre un estante.
 
 -¿Es usted el doctor Wendell Urth? -preguntó Davenport en un tono que parecía dar a entender cierta incredulidad.
 
@@ -191,7 +193,11 @@ El inspector Davenport obedeció y dijo: -Pero usted es…
 
 -He venido -dijo el inspector arrugando el ceño para consultarle sobre un caso de asesinato. 
 
--¿Asesinato? ¿Qué tengo yo que ver con asesinatos? -Este asesinato, doctor Urth, ha ocurrido en la Luna. -Asombroso.
+-¿Asesinato? ¿Qué tengo yo que ver con asesinatos?
+
+-Este asesinato, doctor Urth, ha ocurrido en la Luna.
+
+-Asombroso.
 
 -Más que asombroso. Es un caso sin precedentes, doctor Urth. En los cincuenta años desde que se estableció el Dominio Lunar, ha habido naves que han estallado y trajes espaciales que sufrieron algún escape. Hombres que han muerto achicharrados en la casa que da al Sol, que se han congelado en el lado oscuro, y que se han asfixiado en ambos sectores. Incluso ha habido quien se ha matado por una caída, lo cual, considerando la gravedad lunar, constituye toda una proeza. Pero en todo ese tiempo, ningún hombre había muerto en la Luna a consecuencia del deliberado acto de violencia de otro hombre… hasta ahora.
 
@@ -217,7 +223,7 @@ El doctor Urth se levantó inmediatamente y cruzó la habitación, haciéndole a
 
 Entraron en una segunda habitación, más espaciosa que la primera, más oscura y mucho más desordenada. Davenport se quedó mudo de asombro al ver la cantidad tan heterogénea de cosas que se amontonaban allí sin la menor pretensión de orden.
 
-Apartó un trozo de «vidrio azul» de Marte; luego, una cosa que ciertos románticos tenían por un artefacto de los marcianos, extinguidos hace ya tanto tiempo; un pequeño meteorito, un modelo de una primitiva nave espacial, y una botella sellada sin nada” dentro, con una etiqueta garabateada donde ponía: «Atmósfera de Venus.»
+Apartó un trozo de «vidrio azul» de Marte; luego, una cosa que ciertos románticos tenían por un artefacto de los marcianos, extinguidos hace ya tanto tiempo; un pequeño meteorito, un modelo de una primitiva nave espacial, y una botella sellada sin nada dentro, con una etiqueta garabateada donde ponía: «Atmósfera de Venus».
 
 -He convertido toda mi casa en un museo -dijo el doctor Urth alegremente-. Es una de las ventajas que tiene el estar soltero. Por supuesto, no tengo todo esto muy organizado. Algún día, cuando tenga libre una semana o así…
 
@@ -227,7 +233,7 @@ Durante un momento miró perplejo a su alrededor; luego, acordándose, apartó u
 
 La Campana colgaba de un alambre delgado, al cual estaba soldada cuidadosamente. Efectivamente, estaba agrietada. Tenía un estrangulamiento por la mitad, lo que le daba el aspecto de dos pequeños globos aplastados y pegados el uno al otro firme aunque imperfectamente.
 
-A pesar de ello, la habían pulido amorosamente hasta conseguir un brillo apagado de un gris suave, una aterciopelada finura, y estaba marcada por unas’ ligeras picaduras que los laboratorios, en sus inútiles esfuerzos por producir Campanas artificiales, habían sido incapaces de imitar.
+A pesar de ello, la habían pulido amorosamente hasta conseguir un brillo apagado de un gris suave, una aterciopelada finura, y estaba marcada por unas ligeras picaduras que los laboratorios, en sus inútiles esfuerzos por producir Campanas artificiales, habían sido incapaces de imitar.
 
 -He hecho innumerables experimentos, antes de encontrarle un badajo decente. Una Campana agrietada es temperamental. Pero el hueso le va bien. Tengo uno aquí -y levantó algo que parecía una especie de gruesa cucharilla hecha de una sustancia gris blancuzca- que me he fabricado yo de un fémur de buey. Escuche.
 
@@ -241,7 +247,7 @@ Se fue extinguiendo lentamente, y los dos hombres permanecieron en silencio dura
 
 -¡Tenga cuidado! No la rompa -exclamó Davenport inquieto. Era proverbial la fragilidad de una buena Campana Armoniosa.
 
--Los geólogos dicen que las Campanas no son más que concreciones de piedra pómez endurecidas por la presión, en cuyo interior queda un vacío donde repiquetean y entrechocan libremente pequeñas partículas rocosas. Eso es lo que ellos dicen. Pero si sólo consiste en eso, ¿por. qué no podemos reproducir una? Y eso que ésta, comparada con una Campana perfecta, nos parecería la armónica de un niño -dijo el doctor Urth.
+-Los geólogos dicen que las Campanas no son más que concreciones de piedra pómez endurecidas por la presión, en cuyo interior queda un vacío donde repiquetean y entrechocan libremente pequeñas partículas rocosas. Eso es lo que ellos dicen. Pero si sólo consiste en eso, ¿por qué no podemos reproducir una? Y eso que ésta, comparada con una Campana perfecta, nos parecería la armónica de un niño -dijo el doctor Urth.
 
 -Exacto -dijo Davenport-. Y no hay ni una docena de personas en la Tierra que posean una que esté perfecta, y habrá un centenar de instituciones y particulares que comprarían una a cualquier precio, sin importarles su procedencia. Por un surtido de Campanas, bien valdría la pena un asesinato.
 
@@ -319,9 +325,11 @@ Davenport frunció el ceño y la cicatriz de la mejilla se le puso lívida.
 
 -Ya comprendo -el Dr. Urth se acarició el estómago con un movimiento rotatorio, y añadió-: Bueno, hay una posibilidad.
 
--¿De que pueda robar usted que ese hombre estuvo en la Luna?
+-¿De que pueda probar usted que ese hombre estuvo en la Luna?
 
--De . poder darle mi opinión. -¿Ahora?
+-De poder darle mi opinión.
+
+-¿Ahora?
 
 -Cuanto antes, mejor. Naturalmente, si tengo la oportunidad de entrevistar al señor Peyton.
 
@@ -417,15 +425,14 @@ Davenport y Peyton se quedaron mirando los fragmentos grises sin decir palabra, 
 
 Louis Peyton, perplejo y sin oponer resistencia, sólo alcanzaba a comprender vagamente que, cualquiera que fuese el testamento que dejara ahora, tendría que hacer constar en él su fracaso final.
 
-*EPILOGO*
+_EPILOGO
 
-*Mis relatos dan lugar muchas veces a que me escriban mis lectores cartas muy agradables, aun cuando saquen a colación algún punto embarazoso. Por ejemplo, después de publicar este relato, recibí una de un joven en la que me contaba que, inspirado por el razonamiento del doctor Urth, estudió el problema de si afectarían realmente las diferencias de peso en la manera de lanzar un objeto. Al final, hizo un experimento científico para comprobarlo.*
+_Mis relatos dan lugar muchas veces a que me escriban mis lectores cartas muy agradables, aun cuando saquen a colación algún punto embarazoso. Por ejemplo, después de publicar este relato, recibí una de un joven en la que me contaba que, inspirado por el razonamiento del doctor Urth, estudió el problema de si afectarían realmente las diferencias de peso en la manera de lanzar un objeto. Al final, hizo un experimento científico para comprobarlo.
 
-*Preparó varios objetos, todos del mismo tamaño y aspecto, pero de pesos diferentes, e hizo que varias personas los lanzaran, sin prevenirles de cuáles eran los pesados y cuáles no. Comprobó que todos los objetos fueron lanzados más o menos con la misma precisión.*
+_Preparó varios objetos, todos del mismo tamaño y aspecto, pero de pesos diferentes, e hizo que varias personas los lanzaran, sin prevenirles de cuáles eran los pesados y cuáles no. Comprobó que todos los objetos fueron lanzados más o menos con la misma precisión.
 
-*Esto me preocupó un poco, pero considero que las conclusiones de este joven no se pueden aplicar con todo rigor. Sólo con sostener un objeto al disponerse a lanzarlo, uno estima inconscientemente su peso y ajusta el esfuerzo muscular de acuerdo con él, si es que está acostumbrado a la gravedad bajo la cual opera.*
+_Esto me preocupó un poco, pero considero que las conclusiones de este joven no se pueden aplicar con todo rigor. Sólo con sostener un objeto al disponerse a lanzarlo, uno estima inconscientemente su peso y ajusta el esfuerzo muscular de acuerdo con él, si es que está acostumbrado a la gravedad bajo la cual opera.
 
-*Los astronautas se sujetan generalmente con correas durante sus vuelos y no han hecho nada a baja gravedad, salvo cortos «paseos por el espacio». Al parecer, esos paseos han resultado sorprendentemente fatigosos, por lo que parece que un cambio de gravedad requiere una considerable aclimatación. Y un regreso a la gravedad terrestre, después de tal aclimatación, requiere una considerable reaclimatación.*
+_Los astronautas se sujetan generalmente con correas durante sus vuelos y no han hecho nada a baja gravedad, salvo cortos «paseos por el espacio». Al parecer, esos paseos han resultado sorprendentemente fatigosos, por lo que parece que un cambio de gravedad requiere una considerable aclimatación. Y un regreso a la gravedad terrestre, después de tal aclimatación, requiere una considerable reaclimatación.
 
-*Así que, por el momento al menos, sigo siendo del mismo criterio que el doctor Urth.*
-
+_Así que, por el momento al menos, sigo siendo del mismo criterio que el doctor Urth.
