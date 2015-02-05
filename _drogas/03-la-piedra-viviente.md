@@ -3,6 +3,8 @@ layout: page
 title: La Piedra Viviente
 ---
 
+# 03 - La piedra viviente
+
 Grande es el cinturón de asteroides y pequeña la parte ocupada por el hombre. Larry Vernadsky había sido asignado a la Estación Cinco por un período de un año; se hallaba ya en el séptimo mes, pero cada vez se preguntaba con más frecuencia si su salario podría compensarle de su casi solitario confinamiento, a setenta millones de millas de la Tierra. Era un joven delgado que no tenía pinta de ingeniero espacio-náutico ni de hombre de los asteroides. Tenía los ojos azules, el pelo color mantequilla, un invencible aire de inocencia que ocultaba su despierta mentalidad, y un espíritu curioso agudizado por el aislamiento.
 
 Tanto su cara de inocencia como su curiosidad le fueron útiles a bordo del Robert Q.
@@ -353,15 +355,15 @@ Ahora la tenían en la sala de control del crucero. Los dos hombres se habían d
 
 -¿Puedes leer nuestros pensamientos? -preguntó. Contuvo el aliento, hasta que finalmente el roce de las placas que cubrían la roca se moduló formando palabras. Para Vernadsky, no cabía imaginar en ese momento sonido más agradable.
 
--Sí --dijo la siliconia-. Vacío alrededor. Nada -añadió.
+-Sí -dijo la siliconia-. Vacío alrededor. Nada -añadió.
 
 -¿Qué? -preguntó Hawkins. Vernadsky le hizo callar.
 
---Supongo qué es a causa del viaje que acabamos de hacer por el espacio. Debe de haberle impresionado. 
+-Supongo qué es a causa del viaje que acabamos de hacer por el espacio. Debe de haberle impresionado. 
 
 -Los hombres que estaban contigo encontraron uranio, un mineral especial, con radiaciones, energía –le dijo a la siliconia, gritando las palabras como para hacer más claros sus pensamientos.
 
--Querían comida ---dijo el débil y arenoso sonido. ¡Por supuesto! Para la siliconia se trataba de comida. Era una fuente de energía.
+-Querían comida -dijo el débil y arenoso sonido. ¡Por supuesto! Para la siliconia se trataba de comida. Era una fuente de energía.
 
 -¿Les enseñaste dónde podían conseguirla? -preguntó Vernadsky.
 
@@ -385,7 +387,7 @@ Las orejas de la siliconia se levantaron lentamente, muy lentamente, temblaron y
 
 -Está haciendo algo. Está señalando hacia algún sitio -dijo Hawkins.
 
---Seguro, sólo que no sabemos en qué dirección. 
+-Seguro, sólo que no sabemos en qué dirección. 
 
 -Bueno, ¿qué esperas que haga? ¿Dar las coordenadas?
 
@@ -613,7 +615,7 @@ Por último, Davenport dejó escapar un suspiro, mezcla de satisfacción y de fr
 
 -¿Lo sabemos, de veras? ¿Y cómo?… -el inspector se interrumpió y lanzó una aguda exclamación-. ¡Naturalmente! El número de la nave misma, que no viene aquí porque ocupaba precisamente el punto del casco que perforó el meteoro. Me temo que se queda sin su siliconia, doctor -luego su rostro irregular se iluminó-. ¡Qué idiota soy! El número ha desaparecido, pero nos lo pueden dar en un instante en el Registro Interplanetario.
 
--Me temo --contestó el doctor Urth- que no estoy de acuerdo, al menos en lo segundo que ha dicho. En el Registro sólo estará el número legítimo y original de la nave, no la coordenada disfrazada en que debió transformarlo el capitán.
+-Me temo -contestó el doctor Urth- que no estoy de acuerdo, al menos en lo segundo que ha dicho. En el Registro sólo estará el número legítimo y original de la nave, no la coordenada disfrazada en que debió transformarlo el capitán.
 
 -El punto exacto del casco -murmuró Davenport-. Y, debido a la casualidad de ese golpe, puede que se haya perdido el asteroide para siempre. ¿De qué le sirven a nadie dos coordenadas sin la tercera?
 
