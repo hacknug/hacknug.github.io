@@ -3,23 +3,23 @@ layout: page
 title: Estoy En Puertomarte Sin Hilda
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_Este es un relato tipo James Bond, escrito antes de que se supiera siquiera la existencia de éste.
+_Este es un relato tipo James Bond, escrito antes de que se supiera siquiera la existencia de éste._
 
-_De hecho, todos los que conocen mis escritos saben que nunca introduzco motivos picantes en mis relatos. Pueden comprobarlo en los demás relatos de este volumen.
+_De hecho, todos los que conocen mis escritos saben que nunca introduzco motivos picantes en mis relatos. Pueden comprobarlo en los demás relatos de este volumen._
 
-_Sin embargo, un editor -no mencionaré su nombre- me dijo una vez que sospechaba que nunca introduciría escenas amorosas en mis relatos porque era incapaz de escribirlas.
+_Sin embargo, un editor -no mencionaré su nombre- me dijo una vez que sospechaba que nunca introduciría escenas amorosas en mis relatos porque era incapaz de escribirlas._
 
-_Naturalmente, rechacé esa insinuación con el desprecio y ofensa que se merecía, y afirmé con calor que era simplemente mi natural pureza y carácter sano lo que me impedía hacerlo.
+_Naturalmente, rechacé esa insinuación con el desprecio y ofensa que se merecía, y afirmé con calor que era simplemente mi natural pureza y carácter sano lo que me impedía hacerlo._
 
-_Puesto que la expresión de su rostro era de evidente incredulidad, dije:
+_Puesto que la expresión de su rostro era de evidente incredulidad, dije:_
 
-_-Se lo demostraré. Escribiré un relato amoroso de ciencia ficción, pero no para publicarlo.
+_-Se lo demostraré. Escribiré un relato amoroso de ciencia ficción, pero no para publicarlo._
 
-_Pero resultó ser también de tema policíaco, y me sentí tan contento de cómo me quedó que dejé que lo publicaran.
+_Pero resultó ser también de tema policíaco, y me sentí tan contento de cómo me quedó que dejé que lo publicaran._
 
-_De cualquier modo, demuestra que puedo hacerlo si quiero. Lo que pasa es que generalmente no quiero.
+_De cualquier modo, demuestra que puedo hacerlo si quiero. Lo que pasa es que generalmente no quiero._
 
 Para empezar, diré que todo sucedió como en un sueño. No tuve que tomar disposiciones de ninguna clase. No tuve que hacer nada. Sólo me limité a ver cómo resultaban las cosas. Quizá fue entonces exactamente cuando debí haberme olido la catástrofe.
 
