@@ -3,8 +3,6 @@ layout: page
 title: La Piedra Viviente
 ---
 
-# 03 - La piedra viviente
-
 Grande es el cinturón de asteroides y pequeña la parte ocupada por el hombre. Larry Vernadsky había sido asignado a la Estación Cinco por un período de un año; se hallaba ya en el séptimo mes, pero cada vez se preguntaba con más frecuencia si su salario podría compensarle de su casi solitario confinamiento, a setenta millones de millas de la Tierra. Era un joven delgado que no tenía pinta de ingeniero espacio-náutico ni de hombre de los asteroides. Tenía los ojos azules, el pelo color mantequilla, un invencible aire de inocencia que ocultaba su despierta mentalidad, y un espíritu curioso agudizado por el aislamiento.
 
 Tanto su cara de inocencia como su curiosidad le fueron útiles a bordo del Robert Q.
