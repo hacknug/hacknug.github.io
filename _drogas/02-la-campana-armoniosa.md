@@ -3,8 +3,6 @@ layout: page
 title: La Campana Armoniosa
 ---
 
-# 02 - La Campana Armoniosa
-
 Louis Peyton no discutía jamás en público los métodos con los cuales había burlado a la policía de la Tierra en una docena de duelos de ingenio y alarde, con la amenaza de la psicoprueba siempre aguardando, pero siempre frustrada. Desde luego habría sido una tontería, pero en sus momentos de mayor satisfacción, le venían ganas de dejar un testamento para abrir después de su muerte, en el que se viera bien claro que sus continuos éxitos se debían a su habilidad y no a la suerte.
 
 En ese testamento diría: «No se puede trazar un plan para encubrir un crimen sin que aparezca en él huella de su creador. Así que es preferible buscar en los acontecimientos algún plan ya existente y ajustar entonces a él tus propias acciones».
