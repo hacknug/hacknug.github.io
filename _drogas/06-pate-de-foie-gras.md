@@ -3,15 +3,13 @@ layout: page
 title: Patê De Foie-Gras
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_Este otro no es estrictamente un relato policíaco, ni aun un relato en la acepción general de la palabra. No sé cómo calificarlo, a no ser quizá como una sátira bien intencionada de la investigación científica.
+_Este otro no es estrictamente un relato policíaco, ni aun un relato en la acepción general de la palabra. No sé cómo calificarlo, a no ser quizá como una sátira bien intencionada de la investigación científica._
 
-_Recibí más cartas después de su publicación que con ningún otro relato de la misma longitud. Un recuerdo especialmente agradable es el de haber recibido la llamada telefónica de un hombre que hablaba con fuerte acento centroeuropeo. Dijo que se encontraba en Boston para asistir a un congreso y quería darme las gracias por el placer que le había proporcionado «Páté de Foie-, Gras», que tan divertida y eficazmente, y con conocimiento de causa, hostigaba a la ciencia.
+_Recibí más cartas después de su publicación que con ningún otro relato de la misma longitud. Un recuerdo especialmente agradable es el de haber recibido la llamada telefónica de un hombre que hablaba con fuerte acento centroeuropeo. Dijo que se encontraba en Boston para asistir a un congreso y quería darme las gracias por el placer que le había proporcionado «Páté de Foie-, Gras», que tan divertida y eficazmente, y con conocimiento de causa, hostigaba a la ciencia._
 
-_Intenté saber su nombre, pero no quiso dármelo. Temía, sospecho yo, que pudiera sufrir su reputación si se descubría que era un lector aficionado a la ciencia ficción. Si está leyendo secretamente este libro y se da por aludido, me gustaría asegurarle que tiene muchos compañeros y que puede desprenderse de ese evidente disimulo. ¡De veras!
-
-.
+_Intenté saber su nombre, pero no quiso dármelo. Temía, sospecho yo, que pudiera sufrir su reputación si se descubría que era un lector aficionado a la ciencia ficción. Si está leyendo secretamente este libro y se da por aludido, me gustaría asegurarle que tiene muchos compañeros y que puede desprenderse de ese evidente disimulo. ¡De veras!_
 
 No les podría decir mi verdadero nombre aunque quisiera, y dadas las circunstancias, no lo deseo.
 
