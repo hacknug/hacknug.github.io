@@ -3,13 +3,13 @@ layout: page
 title: La Bola De Billar
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_Este relato tiene para mí recuerdos muy agradables. En el XXIV Congreso Mundial de Ciencia Ficción, celebrado en Cleveland durante las fechas próximas al Día del Trabajo de 1966, fui uno de los que recibieron un Hugo (el «Oscar» de la Ciencia Ficción) en circunstancias de extrema satisfacción para mí, y con mi esposa e hijos entre los espectadores (escribo esto sonriendo de pura satisfacción ante el recuerdo).
+_Este relato tiene para mí recuerdos muy agradables. En el XXIV Congreso Mundial de Ciencia Ficción, celebrado en Cleveland durante las fechas próximas al Día del Trabajo de 1966, fui uno de los que recibieron un Hugo (el «Oscar» de la Ciencia Ficción) en circunstancias de extrema satisfacción para mí, y con mi esposa e hijos entre los espectadores (escribo esto sonriendo de pura satisfacción ante el recuerdo)._
 
-_La revista de ciencia ficción IF ganó también un Hugo y su editor hizo prometer a otros ganadores del premio que escribirían relatos para un número especial dedicado al Hugo. Habría sido necesario tener el corazón de obsidiana para no acceder… así que lo hice.
+_La revista de ciencia ficción IF ganó también un Hugo y su editor hizo prometer a otros ganadores del premio que escribirían relatos para un número especial dedicado al Hugo. Habría sido necesario tener el corazón de obsidiana para no acceder… así que lo hice._
 
-_Este es el resultado. Que yo sepa, es el único relato en que se combina lo policíaco con la Teoría General de Einstein sobre la Relatividad.
+_Este es el resultado. Que yo sepa, es el único relato en que se combina lo policíaco con la Teoría General de Einstein sobre la Relatividad._
 
 James Priss -supongo que debería decir el profesor James Priss, aunque estoy seguro de que todo el mundo sabe a quién me refiero, aun sin el título- siempre hablaba despacio.Lo sé. Le he entrevistado muchas veces. Poseía la más grande inteligencia después de Einstein, pero no le funcionaba de prisa. Admitía con frecuencia su lentitud. Quizá fuera porque era tan grande por lo que no le funcionaba de prisa.
 
@@ -385,8 +385,8 @@ Porque cuando la bola que Priss había impulsado avanzaba hacia el volumen de gr
 
 … ¿O un asesinato?
 
-_EPILOGO
+_EPILOGO_
 
-_Un amigo mío, después de leer este relato, me sugirió que cambiara el título por el de «Truco sucio». Estuve tentado de hacerlo, pero me contuve porque me pareció un título demasiado petulante para una historia tan grave… o tal vez porque me sentía corroído de envidia por no habérseme ocurrido a mí primero.
+_Un amigo mío, después de leer este relato, me sugirió que cambiara el título por el de «Truco sucio». Estuve tentado de hacerlo, pero me contuve porque me pareció un título demasiado petulante para una historia tan grave… o tal vez porque me sentía corroído de envidia por no habérseme ocurrido a mí primero._
 
-_Pero en cualquier caso, ahora que he leído todas las historias de este volumen y he revivido los recuerdos que cada una despierta en mí, todo lo que puedo decir es: «¡Vaya, es estupendo ser escritor de ciencia ficción!»
+_Pero en cualquier caso, ahora que he leído todas las historias de este volumen y he revivido los recuerdos que cada una despierta en mí, todo lo que puedo decir es: «¡Vaya, es estupendo ser escritor de ciencia ficción!»_
