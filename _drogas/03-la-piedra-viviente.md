@@ -631,14 +631,14 @@ Sonrió.
 
 -Y si es posible que sepa silbar -dijo Davenport. Y eso iba haciendo él mientras regresaba.
 
-_EPILOGO
+_EPILOGO_
 
-_Naturalmente, el escribir un relato policíaco tiene sus escollos. A veces está uno tan predispuesto a concentrarse en el problema mismo, que pierde de vista factores periféricos de importancia.
+_Naturalmente, el escribir un relato policíaco tiene sus escollos. A veces está uno tan predispuesto a concentrarse en el problema mismo, que pierde de vista factores periféricos de importancia._
 
-_Después de publicarse este relato, recibí numerosas cartas, en las que los lectores me expresaban su interés por la siliconia, reprochándome en algunos casos que la hubiera dejado morir tan a sangre fría.
+_Después de publicarse este relato, recibí numerosas cartas, en las que los lectores me expresaban su interés por la siliconia, reprochándome en algunos casos que la hubiera dejado morir tan a sangre fría._
 
-_Después de releer ahora el relato, debo admitir que los lectores tienen razón. Mostré esa falta de sensibilidad ante la muerte patética de la siliconia porque me estaba concentrando en sus misteriosas palabras finales. Si tuviera que escribirlo de nuevo, reconozco que sería más cariñoso con la pobre criatura.
+_Después de releer ahora el relato, debo admitir que los lectores tienen razón. Mostré esa falta de sensibilidad ante la muerte patética de la siliconia porque me estaba concentrando en sus misteriosas palabras finales. Si tuviera que escribirlo de nuevo, reconozco que sería más cariñoso con la pobre criatura._
 
-_Pido disculpas.
+_Pido disculpas._
 
-_Esto demuestra que ni siquiera los escritores experimentados hacen siempre la «obra bien hecha», y se les puede pasar por alto cosas de bulto que tienen justo delante de las narices.
+_Esto demuestra que ni siquiera los escritores experimentados hacen siempre la «obra bien hecha», y se les puede pasar por alto cosas de bulto que tienen justo delante de las narices._
