@@ -423,14 +423,14 @@ Davenport y Peyton se quedaron mirando los fragmentos grises sin decir palabra, 
 
 Louis Peyton, perplejo y sin oponer resistencia, sólo alcanzaba a comprender vagamente que, cualquiera que fuese el testamento que dejara ahora, tendría que hacer constar en él su fracaso final.
 
-_EPILOGO
+_EPILOGO_
 
-_Mis relatos dan lugar muchas veces a que me escriban mis lectores cartas muy agradables, aun cuando saquen a colación algún punto embarazoso. Por ejemplo, después de publicar este relato, recibí una de un joven en la que me contaba que, inspirado por el razonamiento del doctor Urth, estudió el problema de si afectarían realmente las diferencias de peso en la manera de lanzar un objeto. Al final, hizo un experimento científico para comprobarlo.
+_Mis relatos dan lugar muchas veces a que me escriban mis lectores cartas muy agradables, aun cuando saquen a colación algún punto embarazoso. Por ejemplo, después de publicar este relato, recibí una de un joven en la que me contaba que, inspirado por el razonamiento del doctor Urth, estudió el problema de si afectarían realmente las diferencias de peso en la manera de lanzar un objeto. Al final, hizo un experimento científico para comprobarlo._
 
-_Preparó varios objetos, todos del mismo tamaño y aspecto, pero de pesos diferentes, e hizo que varias personas los lanzaran, sin prevenirles de cuáles eran los pesados y cuáles no. Comprobó que todos los objetos fueron lanzados más o menos con la misma precisión.
+_Preparó varios objetos, todos del mismo tamaño y aspecto, pero de pesos diferentes, e hizo que varias personas los lanzaran, sin prevenirles de cuáles eran los pesados y cuáles no. Comprobó que todos los objetos fueron lanzados más o menos con la misma precisión._
 
-_Esto me preocupó un poco, pero considero que las conclusiones de este joven no se pueden aplicar con todo rigor. Sólo con sostener un objeto al disponerse a lanzarlo, uno estima inconscientemente su peso y ajusta el esfuerzo muscular de acuerdo con él, si es que está acostumbrado a la gravedad bajo la cual opera.
+_Esto me preocupó un poco, pero considero que las conclusiones de este joven no se pueden aplicar con todo rigor. Sólo con sostener un objeto al disponerse a lanzarlo, uno estima inconscientemente su peso y ajusta el esfuerzo muscular de acuerdo con él, si es que está acostumbrado a la gravedad bajo la cual opera._
 
-_Los astronautas se sujetan generalmente con correas durante sus vuelos y no han hecho nada a baja gravedad, salvo cortos «paseos por el espacio». Al parecer, esos paseos han resultado sorprendentemente fatigosos, por lo que parece que un cambio de gravedad requiere una considerable aclimatación. Y un regreso a la gravedad terrestre, después de tal aclimatación, requiere una considerable reaclimatación.
+_Los astronautas se sujetan generalmente con correas durante sus vuelos y no han hecho nada a baja gravedad, salvo cortos «paseos por el espacio». Al parecer, esos paseos han resultado sorprendentemente fatigosos, por lo que parece que un cambio de gravedad requiere una considerable aclimatación. Y un regreso a la gravedad terrestre, después de tal aclimatación, requiere una considerable reaclimatación._
 
-_Así que, por el momento al menos, sigo siendo del mismo criterio que el doctor Urth.
+_Así que, por el momento al menos, sigo siendo del mismo criterio que el doctor Urth._
