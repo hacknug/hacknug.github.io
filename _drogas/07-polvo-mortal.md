@@ -3,9 +3,9 @@ layout: page
 title: Polvo Mortal
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_En un principio había planeado hacer que esta fuera otra historia de Wendell Urth, pero estaba a punto de publicarse una nueva revista y quería estar representado en ella con algo que no pareciera un resto de otra publicación. Hice las variaciones oportunas. Ahora estoy un poco arrepentido; le he estado dando vueltas a la idea de escribir de nuevo el relato para este volumen y volver a incluir al doctor Urth, pero la desidia es la que ha triunfado al final.
+_En un principio había planeado hacer que esta fuera otra historia de Wendell Urth, pero estaba a punto de publicarse una nueva revista y quería estar representado en ella con algo que no pareciera un resto de otra publicación. Hice las variaciones oportunas. Ahora estoy un poco arrepentido; le he estado dando vueltas a la idea de escribir de nuevo el relato para este volumen y volver a incluir al doctor Urth, pero la desidia es la que ha triunfado al final._
 
 Como todos los hombres que trabajaban para el gran Llewes, Edmund Farley llegó al punto en que pensaba con vehemencia en el placer que le daría matar al tal gran Llewes.
 
