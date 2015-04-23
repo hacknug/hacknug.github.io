@@ -3,15 +3,15 @@ layout: page
 title: Cuando Muere La Noche
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_Unos años antes de escribir este relato, dos colegas y yo unimos nuestras fuerzas para escribir un amplio y complicado texto de bioquímica para estudiantes de medicina. Pasamos días -literalmente hablando- ocupados con las pruebas de imprenta, y con frecuencia descubríamos pequeñas incoherencias. En un sitio teníamos escrita una fórmula química de una manera y en otro sitio de otra; aquí aparecía un guión y allá no; aquí una frase y allá otra.
+_Unos años antes de escribir este relato, dos colegas y yo unimos nuestras fuerzas para escribir un amplio y complicado texto de bioquímica para estudiantes de medicina. Pasamos días -literalmente hablando- ocupados con las pruebas de imprenta, y con frecuencia descubríamos pequeñas incoherencias. En un sitio teníamos escrita una fórmula química de una manera y en otro sitio de otra; aquí aparecía un guión y allá no; aquí una frase y allá otra._
 
-_Desistimos de poder lograr que todo concordara perfectamente, y uno de nosotros dijo finalmente: “Como dice Emerson, las coherencias tontas son la obsesión de las mentalidades pequeñas.” Nos apoyamos en esto con entusiástica alegría y desde entonces, siempre que el corrector de pruebas señalaba alguna pequeña incoherencia, escribíamos: “¡Emerson”! en el margen, y lo dejábamos pasar.
+_Desistimos de poder lograr que todo concordara perfectamente, y uno de nosotros dijo finalmente: “Como dice Emerson, las coherencias tontas son la obsesión de las mentalidades pequeñas.” Nos apoyamos en esto con entusiástica alegría y desde entonces, siempre que el corrector de pruebas señalaba alguna pequeña incoherencia, escribíamos: “¡Emerson”! en el margen, y lo dejábamos pasar._
 
-_Bien, el siguiente relato gira en torno a la posible invención de la transferencia de masas, y al preparar estos relatos para incluirlos en el presente volumen, advertí que en “La Campana Armoniosa” -un relato anterior con el mismo escenario- se daba por sentado que la transferencia de masas existía ya.
+_Bien, el siguiente relato gira en torno a la posible invención de la transferencia de masas, y al preparar estos relatos para incluirlos en el presente volumen, advertí que en “La Campana Armoniosa” -un relato anterior con el mismo escenario- se daba por sentado que la transferencia de masas existía ya._
 
-_Estaba a punto de realizar algunos cambios para eliminar esa discrepancia, cuando recordé. Por tanto, si no le importa a usted, amable lector, voy a exclamar “¡Emerson!” y a seguir adelante.
+_Estaba a punto de realizar algunos cambios para eliminar esa discrepancia, cuando recordé. Por tanto, si no le importa a usted, amable lector, voy a exclamar “¡Emerson!” y a seguir adelante._
 
 Era casi una reunión de antiguos alumnos y, aunque se distinguía por la falta de animación, aún no había razón alguna para pensar que se vería trastornada por la tragedia.
 
@@ -967,10 +967,10 @@ Urth alzó la vista. Con gran sorpresa por parte de Talliaferro, en el rostro de
 
 -Una vez, hace mucho tiempo -dijo Urth-, conocí allí a una joven. Han pasado muchos años… pero a veces me pregunto…
 
-_EPILOGO
+_EPILOGO_
 
-_Algunos lectores se habrán dado cuenta de que este relato, publicado por primera vez en 1956, ha sido superado por los acontecimientos. En 1965, los astrónomos descubrieron que Mercurio no mantiene siempre una misma cara hacia el Sol, sino que tiene un período de rotación de unos cincuenta y cuatro días, de modo que todas las partes se ven expuestas a la luz del Sol más tarde o más temprano.
+_Algunos lectores se habrán dado cuenta de que este relato, publicado por primera vez en 1956, ha sido superado por los acontecimientos. En 1965, los astrónomos descubrieron que Mercurio no mantiene siempre una misma cara hacia el Sol, sino que tiene un período de rotación de unos cincuenta y cuatro días, de modo que todas las partes se ven expuestas a la luz del Sol más tarde o más temprano._
 
-_Bueno, ¿y qué puedo hacer sino decir que me gustaría que los astrónomos pusieran, para empezar, las cosas claras?
+_Bueno, ¿y qué puedo hacer sino decir que me gustaría que los astrónomos pusieran, para empezar, las cosas claras?_
 
-_Y, desde luego, me niego a cambiar el relato para satisfacer sus caprichos.
+_Y, desde luego, me niego a cambiar el relato para satisfacer sus caprichos._
