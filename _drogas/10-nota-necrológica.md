@@ -3,10 +3,9 @@ layout: page
 title: Nota Necrológica
 ---
 
-# 10 - Nota Necrológica
-_PROLOGO
+_PROLOGO_
 
-_Me avergüenza confesar que la trama de este cuento se me ocurrió cuando leí en el New York Times la nota necrológica de un colega, escritor de ciencia ficción, y empecé a preguntarme si, cuando llegue el momento, será igual de larga mi propia nota necrológica. De ahí a este relato sólo va un pequeño paso.
+_Me avergüenza confesar que la trama de este cuento se me ocurrió cuando leí en el New York Times la nota necrológica de un colega, escritor de ciencia ficción, y empecé a preguntarme si, cuando llegue el momento, será igual de larga mi propia nota necrológica. De ahí a este relato sólo va un pequeño paso._
 
 Mi marido, Lancelot, lee siempre el periódico durante el desayuno. Nada más aparecer, lo primero que miro es su rostro flaco y abstraído con su eterna expresión de enfado y de perpleja frustración. No me saluda; coge el periódico, que le he preparado cuidadosamente junto a su desayuno, y lo levanta delante de su rostro.
 
