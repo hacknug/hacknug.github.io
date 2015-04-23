@@ -3,9 +3,9 @@ layout: page
 title: Qué Importa El Nombre
 ---
 
-_PROLOGO
+_PROLOGO_
 
-_El siguiente relato no es, en el más estricto sentido de la palabra, un cuento policíaco de ciencia ficción, aunque lo incluya entre ellos. La razón estriba en que la ciencia está íntima y estrechamente comprometida con el enigma, y no quiero dejar de incluirlo sólo porque la ciencia sea más bien del presente que del futuro.
+_El siguiente relato no es, en el más estricto sentido de la palabra, un cuento policíaco de ciencia ficción, aunque lo incluya entre ellos. La razón estriba en que la ciencia está íntima y estrechamente comprometida con el enigma, y no quiero dejar de incluirlo sólo porque la ciencia sea más bien del presente que del futuro._
 
 Si piensan ustedes que es difícil conseguir cianuro potásico ya se lo pueden quitar de la cabeza. Allí estaba yo una botella de medio kilo en la mano. Era de cristal marrón, con una preciosa etiqueta que ponía «CIANURO POTASICO, Q. P.» (las ¡nidales, según me dijeron, significaban «químicamente puro») y una pequeña calavera unos huesos cruzados debajo.
 
