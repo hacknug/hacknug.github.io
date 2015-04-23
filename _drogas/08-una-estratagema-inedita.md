@@ -35,6 +35,6 @@ Porque esa decisión, en suma, fue:
 
 «A Stein le salva un nicho en el tiempo.»
 
-_EPILOGO
+_EPILOGO_
 
-_Si esperan que me excuse por esto es que no me conocen. Estimo que un juego de palabras es la forma más noble del ingenio, así que…
+_Si esperan que me excuse por esto es que no me conocen. Estimo que un juego de palabras es la forma más noble del ingenio, así que…_
