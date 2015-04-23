@@ -89,10 +89,10 @@ Impotente, Trent se hundió en su silla, observando el panorama burlesco de luz 
 
 Si al menos hubiera conservado el cuchillo…
 
-_EPILOGO
+_EPILOGO_
 
-_En los últimos años, varios estudiantes de Literatura inglesa o de Materias científicas se han dedicado a escribir ejercicios semestrales, e incluso tesis doctorales, sobre mis libros y relatos. Resulta muy halagador para mí, por supuesto, pero también me asusta, porque descubren toda dase de cosas sobre mi vida literaria que yo jamás había sospechado que existiera.
+_En los últimos años, varios estudiantes de Literatura inglesa o de Materias científicas se han dedicado a escribir ejercicios semestrales, e incluso tesis doctorales, sobre mis libros y relatos. Resulta muy halagador para mí, por supuesto, pero también me asusta, porque descubren toda dase de cosas sobre mi vida literaria que yo jamás había sospechado que existiera._
 
-_Por ejemplo, hay una cierta similitud entre «Luz Estelar» y «La Campana Armoniosa», de la que no me había dado cuenta hasta que examiné los dos relatos para incluirlos en. este volumen. Y «Polvo Mortal» se parece en otro aspecto a «La Campana Armoniosa». Supongo que se debe a que he utilizado el mismo cerebro para los tres relatos.
+_Por ejemplo, hay una cierta similitud entre «Luz Estelar» y «La Campana Armoniosa», de la que no me había dado cuenta hasta que examiné los dos relatos para incluirlos en. este volumen. Y «Polvo Mortal» se parece en otro aspecto a «La Campana Armoniosa». Supongo que se debe a que he utilizado el mismo cerebro para los tres relatos._
 
-_Apuesto a que cualquiera que estudie mi producción literaria nota esos parecidos inmediatamente; pero para evitar que saquen injustificadas conclusiones, permítanme asegurarles que yo permanezco felizmente ignorante de tales cosas hasta que me toca darles a mis relatos una rápida lectura.
+_Apuesto a que cualquiera que estudie mi producción literaria nota esos parecidos inmediatamente; pero para evitar que saquen injustificadas conclusiones, permítanme asegurarles que yo permanezco felizmente ignorante de tales cosas hasta que me toca darles a mis relatos una rápida lectura._
