@@ -7,7 +7,7 @@ _PROLOGO_
 
 _El siguiente relato no es, en el más estricto sentido de la palabra, un cuento policíaco de ciencia ficción, aunque lo incluya entre ellos. La razón estriba en que la ciencia está íntima y estrechamente comprometida con el enigma, y no quiero dejar de incluirlo sólo porque la ciencia sea más bien del presente que del futuro._
 
-* * *
+----
 
 Si piensan ustedes que es difícil conseguir cianuro potásico ya se lo pueden quitar de la cabeza. Allí estaba yo con una botella de medio kilo en la mano. Era de cristal marrón, con una preciosa etiqueta que ponía «CIANURO POTÁSICO, Q.P.» (las iniciales, según me dijeron, significaban «químicamente puro») y una pequeña calavera unos huesos cruzados debajo.
 
@@ -161,7 +161,7 @@ Susan apartó los ojos del estudiante que se alejaba.
 
 Pero tenía los labios tirantes, sus ojos chispeaban, y puedo decir que cuando estoy cerca del odio lo huelo en seguida.
 
-* * *
+----
 
 El profesor Rodney entró en la biblioteca. Era el primer hombre con el que me había encontrado al entrar en el edificio, y mis simpatías hacia él no habían hecho el menor progreso.
 
@@ -257,7 +257,7 @@ No sé durante cuánto tiempo pudo haber continuado, pero yo no estaba allí par
 
 -Profesor, quiero hablar con usted en su laboratorio -dije bruscamente.
 
-* * *
+----
 
 La verdad es que yo creía que el cianuro se guardaba en una caja fuerte, que se llevaba la cuenta de cada granito, y que la gente tenía que firmar cuando se llevaba alguna cantidad. Pensaba que la cuestión de cuál fue el momento en que tuvieron la oportunidad de obtenerlo ilícitamente podía proporcionarnos la prueba que necesitábamos.
 
@@ -495,7 +495,7 @@ El profesor negó ligeramente con la cabeza. Me susurró de nuevo:
 
 Me encogí de hombros. Podía imaginarme lo que pasaría si presentaba una prueba de esa naturaleza ante el comisario.
 
-* * *
+----
 
 Cuatro de los estudiantes carecían de interés y los despachamos en poco tiempo. Estaban embebidos en sus investigaciones. Sabían qué libros querían y en qué estantes estaban. Fueron directamente al sitio sin detenerse en la mesa de recepción. Ninguno pudo decir si era Susan o Louella-Marie la que estaba en la mesa en ese determinado momento. Ninguno había levantado la vista siquiera de sus libros, según decían, hasta que el grito vino a alterarlo todo.
 
