@@ -7,13 +7,15 @@ _PROLOGO_
 
 _El siguiente relato no es, en el más estricto sentido de la palabra, un cuento policíaco de ciencia ficción, aunque lo incluya entre ellos. La razón estriba en que la ciencia está íntima y estrechamente comprometida con el enigma, y no quiero dejar de incluirlo sólo porque la ciencia sea más bien del presente que del futuro._
 
-Si piensan ustedes que es difícil conseguir cianuro potásico ya se lo pueden quitar de la cabeza. Allí estaba yo una botella de medio kilo en la mano. Era de cristal marrón, con una preciosa etiqueta que ponía «CIANURO POTASICO, Q. P.» (las ¡nidales, según me dijeron, significaban «químicamente puro») y una pequeña calavera unos huesos cruzados debajo.
+* * *
+
+Si piensan ustedes que es difícil conseguir cianuro potásico ya se lo pueden quitar de la cabeza. Allí estaba yo con una botella de medio kilo en la mano. Era de cristal marrón, con una preciosa etiqueta que ponía «CIANURO POTÁSICO, Q.P.» (las iniciales, según me dijeron, significaban «químicamente puro») y una pequeña calavera unos huesos cruzados debajo.
 
 El tipo a quien pertenecía la botella se limpió las gafas y parpadeó al mirarme. Se trataba del profesor Helmuth Rodney, de la Universidad de Carmody. Era de estatura media, con una barbilla blanda, labios gruesos, barriga incipiente, pelo castaño y un aspecto de total indiferencia al hecho de que yo tuviera en la mano el veneno suficiente para matar a un regimiento.
 
 -¿Insinúa usted que tiene esto en su estantería así como así, profesor? -pregunté.
 
--Sí, siempre ha estado ahí, inspector. junto con todos los demás productos químicos, en orden alfabétíco -dijo con ese tono circunspecto que seguramente empleaba en sus explicaciones de clase.
+-Sí, siempre ha estado ahí, inspector. junto con todos los demás productos químicos, en orden alfabético -dijo con ese tono circunspecto que seguramente empleaba en sus explicaciones de clase.
 
 Eché una mirada a la abigarrada habitación. Los estantes se alineaban hasta arriba por todas las paredes, y estaban llenos de botellas grandes y pequeñas.
 
@@ -47,11 +49,11 @@ El profesor Rodney negó con la cabeza.
 
 -En casi todos -contestó inmediatamente-. Incluso laboratorios de los estudiantes. Al fin y al cabo, es una sustancia corriente que se emplea rutinariamente en las síntesis.
 
--Yo no calificaría de rutinario el empleo que se le ha dado hoy-dije. 
+-Yo no calificaría de rutinario el empleo que se le ha dado hoy -dije. 
 
--No, desde luego -contestó, dejando escapar un suspiro y añadió pensativo-: solían llamarlas las «Mellízas de la Biblioteca».
+-No, desde luego -contestó, dejando escapar un suspiro y añadió pensativo-: solían llamarlas las «Mellizas de la Biblioteca».
 
-Asentí. Comprendía la razón de aquel apodo. Las dos bibliotecarias eran muy parecidas. si se las miraba de cerca, por supuesto. Una tenía barbillita puntiaguda y un rostro redondo, y la otra tenía mandíbula cuadrada y larga nariz. Sin embargo, inclinadas sobre la mesa, ambas tenían el cabello de un rubio color miel, con raya en medio y una onda similar. Si se les echaba una rápida mirada a la cara, en lo que primero se fijaría uno sería probablemente en que las dos tenían grandes ojos de parecido tono azuL Viéndolas en pie, juntas a cierta distancia, se vería que ambas eran de la misma estatura y que, probablemente, usaban el sujetador de la misma marca y talla. Las dos tenían la cintura estrecha y las piernas bonitas. Hoy iban vestidas iguales. Las dos iban de azul.
+Asentí. Comprendía la razón de aquel apodo. Las dos bibliotecarias eran muy parecidas. si se las miraba de cerca, por supuesto. Una tenía barbillita puntiaguda y un rostro redondo, y la otra tenía mandíbula cuadrada y larga nariz. Sin embargo, inclinadas sobre la mesa, ambas tenían el cabello de un rubio color miel, con raya en medio y una onda similar. Si se les echaba una rápida mirada a la cara, en lo que primero se fijaría uno sería probablemente en que las dos tenían grandes ojos de parecido tono azul. Viéndolas en pie, juntas a cierta distancia, se vería que ambas eran de la misma estatura y que, probablemente, usaban el sujetador de la misma marca y talla. Las dos tenían la cintura estrecha y las piernas bonitas. Hoy iban vestidas iguales. Las dos iban de azul.
 
 Sin embargo, era imposible confundirlas. La de la barbilla pequeña y el rostro redondo rebosaba de cianuro y estaba muerta.
 
@@ -61,7 +63,7 @@ El parecido fue lo primero que me chocó cuando llegué con mi compañero Ed Hat
 
 No lo eran. Ni siquiera primas segundas.
 
-Eché una mirada a la biblioteca. Había estantes llenos de encuadernación parecida. Había volúmenes de diversas revistas científicas. En otra sala había rimeros de lo que según descubrimos más tarde, resultaron ser libros de texto, monografías y libros más antiguos. En la parte de atrás había un cuarto que contenía números recientes de revistas científicas sin encuadernar con cubiertas en rústica de aburridos y farragosos títulos. De pared a pared se alineaban largas mesas donde hubieran podido sentarse un centenar de personas de haber sido necesario. Afortunadamente tunadamente, no era ese el caso.
+Eché una mirada a la biblioteca. Había estantes llenos de encuadernación parecida. Había volúmenes de diversas revistas científicas. En otra sala había rimeros de lo que según descubrimos más tarde, resultaron ser libros de texto, monografías y libros más antiguos. En la parte de atrás había un cuarto que contenía números recientes de revistas científicas sin encuadernar con cubiertas en rústica de aburridos y farragosos títulos. De pared a pared se alineaban largas mesas donde hubieran podido sentarse un centenar de personas de haber sido necesario. Afortunadamente, no era ese el caso.
 
 Susan nos contó lo sucedido a trazos insulsos monótonos.
 
@@ -119,7 +121,7 @@ Pete miró más allá de la chica; parecía que se le iba a descomponer el rostr
 
 -¿Cómo es que Lolly?… -preguntó con voz ronca y ahogada.
 
--No lo sé. No lo sé -jadeó Susan. Seguía íntentando mirarle a los ojos.
+-No lo sé. No lo sé -jadeó Susan. Seguía intentando mirarle a los ojos.
 
 Pete se alejó bruscamente. No había mirado a Susan ni una vez; todo el tiempo que estuvo con ella había estado mirando por encima de su hombro. Luego obedeció a la presión que Hathaway le hizo en el codo y se dejó llevar fuera.
 
@@ -153,21 +155,21 @@ Susan apartó los ojos del estudiante que se alejaba.
 
 -¿De qué habla?
 
- -Alguien echó cianuro en el azúcar y lo sirvió sólo en una taza. Suponga que Louella-Marie estuviera lo bastante celosa de usted como para intentar envenenarla y tener el campo libre con nuestro amigo Pete. Y suponga ella se tomó la taza envenenada por error.
+-Alguien echó cianuro en el azúcar y lo sirvió sólo en una taza. Suponga que Louella-Marie estuviera lo bastante celosa de usted como para intentar envenenarla y tener el campo libre con nuestro amigo Pete. Y suponga ella se tomó la taza envenenada por error.
 
- -Eso es absurdo. Louella-Marie no haría nada semejante -dijo Susan.
+-Eso es absurdo. Louella-Marie no haría nada semejante -dijo Susan.
 
 Pero tenía los labios tirantes, sus ojos chispeaban, y puedo decir que cuando estoy cerca del odio lo huelo en seguida.
 
- 
+* * *
 
 El profesor Rodney entró en la biblioteca. Era el primer hombre con el que me había encontrado al entrar en el edificio, y mis simpatías hacia él no habían hecho el menor progreso.
 
 Había empezado por informarme que, como miembro más antiguo del claustro, él se encargaba de todo.
 
- -Ahora me encargaré yo, profesor -le dije.
+-Ahora me encargaré yo, profesor -le dije.
 
--De la investigación puede que sí, inspector, pero yo el responsable ante el decano y me propongo cumplir con mis obligaciones.
+-De la investigación puede que sí, inspector, pero soy yo el responsable ante el decano y me propongo cumplir con mis obligaciones.
 
 Aunque no tenía pinta de aristócrata, sino que parecía bien un tendero, si comprenden lo que quiero decir, se las arregló para mirarme como si hubiera un microscopio entre los dos, y él ocupara el lado de arriba.
 
@@ -187,9 +189,9 @@ Se dio la vuelta en su asiento y alzó la vista.
 
 -Pues	pues después de la una, creo. Recuerdo que le ofrecí al profesor Rodney una taza. Fue poco después de la una; ¿verdad, profesor Rodney?
 
-Una sombra de fastidió cruzó el rollizo rostro de Rodney
+Una sombra de fastidio cruzó el rollizo rostro de Rodney.
 
--Pasé por aquí un momento, justo antes de la comida, para consultar una signatura -dijo, volviéndose hacia mí-. La señora NettIer me ofreció, efectivamente, una taza. Me temo que estaba demasiado ocupado para aceptársela ni para darme cuenta exactamente de la hora.
+-Pasé por aquí un momento, justo antes de la comida, para consultar una signatura -dijo, volviéndose hacia mí-. La señora Nettler me ofreció, efectivamente, una taza. Me temo que estaba demasiado ocupado para aceptársela ni para darme cuenta exactamente de la hora.
 
 Di un gruñido y me volví hacía la anciana señora.
 
@@ -205,7 +207,7 @@ Esperé un poco. Luego le pregunté:
 
 -¿Se fijó cómo estaba el azucarero?
 
--Estaba…estaba…-la pregunta suscitó en ella una repentina sorpresa que la hizo ponerse de pie-. Estaba vacío y yo misma lo llené. Cogí el paquete del azúcar y recuerdo que me dije a mí misma que siempre que quería tomar el té no quedaba azúcar y que me gustaría que las chícas…
+-Estaba… Estaba… -la pregunta suscitó en ella una repentina sorpresa que la hizo ponerse de pie-. Estaba vacío y yo misma lo llené. Cogí el paquete del azúcar y recuerdo que me dije a mí misma que siempre que quería tomar el té no quedaba azúcar y que me gustaría que las chicas…
 
 Tal vez fue por referirse a las jóvenes en plural. Se echó a llorar otra vez.
 
@@ -225,8 +227,6 @@ Hathaway llegó antes que la joven.
 
 -¿Qué va a hacer, señorita?
 
- 
-
 Susan pareció completamente sorprendida.
 
 -Sólo voy a ponerlo de nuevo en el estante.
@@ -235,19 +235,19 @@ Susan pareció completamente sorprendida.
 
 Estaba en alemán. No entiendo ese idioma, pero puedo reconocerlo cuando lo veo. El tipo de letra era pequeño, y en la página había figuras geométricas con líneas de letras en varios lugares. Sabía lo bastante, también, para reconocer que aquello eran fórmulas químicas.
 
-Puse el dedo por donde estaba abierto, cerré el libro y miré el lomo. Decía: «Beilsteín. Organische Chemie. Band VI. System Nummer 499-608». Abrí la página de nuevo. Era la 233, y las primeras palabras, sólo para darles a ustedes una idea, eran 4’-chIor-4-brom-2-nitrodíphe-nylláther-C,2H7QNClBr.
+Puse el dedo por donde estaba abierto, cerré el libro y miré el lomo. Decía: «Beilstein. Organische Chemie. Band VI. System Nummer 499-608». Abrí la página de nuevo. Era la 233, y las primeras palabras, sólo para darles a ustedes una idea, eran 4'-chlor-4-brom-2-nitro-diphenylather-C12H7O3 NClBr.
 
 Hathaway estaba ocupado copiando cosas.
 
 El profesor Rodney estaba también junto a la mesa, con lo que éramos cuatro, todos reunidos alrededor del libro.
 
-El profesor dijo con voz fría, como si estuviera en la tarima con un puntero en una mano y un trozo de tiza en la otra-
+El profesor dijo con voz fría, como si estuviera en la tarima con un puntero en una mano y un trozo de tiza en la otra:
 
--Este es un volumen de Beílstein (lo pronunció «BailShtain»). Es una especie de enciclopedia de los componentes orgánicos, Registra cientos de miles.
+-Este es un volumen de Beilstein (lo pronunció «BailShtain»). Es una especie de enciclopedia de los componentes orgánicos, Registra cientos de miles.
 
 -¿Este libro? -preguntó Hathaway.
 
--Este libro no es más que uno de los sesenta y tantos volúmenes y apéndices complementarios. Es una obra ale mana tremenda que tiene años de retraso porque, primero, la química orgánica progresa a un ritmo cada vez más rápido y, segundo, por la interferencia de la política y la guerra. Aun así, no existe nada en inglés que se le aproxime siquiera en utilidad. Para todos los investigadores en química orgánica, estos volúmenes son de absoluta necesidad.
+-Este libro no es más que uno de los sesenta y tantos volúmenes y apéndices complementarios. Es una obra alemana tremenda que tiene años de retraso porque, primero, la química orgánica progresa a un ritmo cada vez más rápido y, segundo, por la interferencia de la política y la guerra. Aun así, no existe nada en inglés que se le aproxime siquiera en utilidad. Para todos los investigadores en química orgánica, estos volúmenes son de absoluta necesidad.
 
 Mientras hablaba, el profesor le daba palmadas al libro; unas palmadas cariñosas.
 
@@ -257,7 +257,7 @@ No sé durante cuánto tiempo pudo haber continuado, pero yo no estaba allí par
 
 -Profesor, quiero hablar con usted en su laboratorio -dije bruscamente.
 
- 
+* * *
 
 La verdad es que yo creía que el cianuro se guardaba en una caja fuerte, que se llevaba la cuenta de cada granito, y que la gente tenía que firmar cuando se llevaba alguna cantidad. Pensaba que la cuestión de cuál fue el momento en que tuvieron la oportunidad de obtenerlo ilícitamente podía proporcionarnos la prueba que necesitábamos.
 
@@ -291,13 +291,13 @@ Peter van Norden -dijo inmediatamente-. Un estudiante bastante brillante, pero i
 
 -La gente hace cosas extrañas cuando está sometida a cierta tensión -dije.
 
- -No de esa clase -dijo con sequedad-. Una taza no tenía azúcar, así que la asesina no quería correr riesgos. Es 4e suponer que, aunque no se hubiera fijado bien en cuál era cada taza, contaba con el dulzor para darse cuenta. Pudo haber evitado fácilmente el ingerir una dosis fatal.
+-No de esa clase -dijo con sequedad-. Una taza no tenía azúcar, así que la asesina no quería correr riesgos. Es de suponer que, aunque no se hubiera fijado bien en cuál era cada taza, contaba con el dulzor para darse cuenta. Pudo haber evitado fácilmente el ingerir una dosis fatal.
 
 -Las dos jóvenes solían ponerse azúcar. La muerta estaba acostumbrada al té dulce. Con la excitación, el acostumbrado dulzor no le dijo nada especial -dije secamente.
 
 -No lo creo.
 
- -¿Qué otra alternativa hay, profesor? El azúcar fue cambiado después de tomar el té la señora Nettler a la una en punto. ¿Lo hizo la señora Nettler?
+-¿Qué otra alternativa hay, profesor? El azúcar fue cambiado después de tomar el té la señora Nettler a la una en punto. ¿Lo hizo la señora Nettler?
 
 -¿Por qué motivo? -dijo alzando bruscamente la vista.
 
@@ -305,7 +305,7 @@ Me encogí de hombros.
 
 -Podía temer que las jóvenes fueran a quitarle su trabajo.
 
--Eso no tiene sentido. Se va a jubílar antes de que comiencen los cursos de otoño
+-Eso no tiene sentido. Se va a jubilar antes de que comiencen los cursos de otoño
 
 -Usted estuvo allí, profesor -dije suavemente.
 
@@ -323,11 +323,11 @@ Empecé a cambiar de opinión sobre el profesor Rodney. No se había preocupado 
 
 -¿Qué cree usted que sucedió? -pregunté.
 
--La imagen del espejo. A la inversa. Creo que la superviviente ha dicho la verdad al revés. Suponga que era Louella-Marie la que estaba ganándose al joven y era a Susan a quien no le gustó, en vez de ser al revés. Supongamos que fue Susan quien por una vez preparó el té, y Louella-Maríe quien estaba en la mesa de recepción, en lugar de la otra. En ese caso, la joven que preparó el té habría podido tomar la taza buena sin correr riesgos. Todo seria lógico y no ridículamente inverosímil.
+-La imagen del espejo. A la inversa. Creo que la superviviente ha dicho la verdad al revés. Suponga que era Louella-Marie la que estaba ganándose al joven y era a Susan a quien no le gustó, en vez de ser al revés. Supongamos que fue Susan quien por una vez preparó el té, y Louella-Marie quien estaba en la mesa de recepción, en lugar de la otra. En ese caso, la joven que preparó el té habría podido tomar la taza buena sin correr riesgos. Todo seria lógico y no ridículamente inverosímil.
 
 Eso era. Aquel hombre había llegado a la misma conclusión que yo, cosa que tenía que gustarme después de todo. Tengo la costumbre de sentirme benevolente con los tipos que están de acuerdo conmigo. Creo que todo se debe al hecho de ser un homo sapiens.
 
--Tenemos que demostrar eso más allá de toda duda razonable -,dije-. Pero, ¿cómo? He subido aquí con la esperanza de probar que alguien ha tenido acceso al cianuro y los demás no. Pero nada. Todo el mundo ha tenido acceso. Ahora, ¿qué? 
+-Tenemos que demostrar eso más allá de toda duda razonable -dije-. Pero, ¿cómo? He subido aquí con la esperanza de probar que alguien ha tenido acceso al cianuro y los demás no. Pero nada. Todo el mundo ha tenido acceso. Ahora, ¿qué? 
 
 -Compruebe cuál de las jóvenes estaba realmente ante la mesa a las dos, mientras la otra estaba preparando té -dijo el profesor. 
 
@@ -353,11 +353,11 @@ Ed Hathaway me estaba esperando cuando bajé. Estaba sentado en la biblioteca va
 
 -Ya sé lo que pasó. Lo he descubierto por deducción. 
 
--¿ Sí?
+-¿Sí?
 
 No tenía en cuenta la presencia del profesor Rodney. 
 
--El cianuro tuvo que ser introducido secretamente. ¿Por quién? Por el comodín de la baraja, el extranjero, e1 tipo que habla con acento… como-se-llame.
+-El cianuro tuvo que ser introducido secretamente. ¿Por quién? Por el comodín de la baraja, el extranjero, el tipo que habla con acento… como-se-llame.
 
 Empezó a rebuscar en una serie de tarjetas de las que había sacado alguna información sobre los, al parecer, inocentes espectadores.
 
@@ -367,7 +367,7 @@ Sabía a quién se refería, así que dije:
 
 El profesor y yo asentimos.
 
-Hathaway continuó
+Hathaway continuó:
 
 -Era alemán, igual que el libro. Probablemente estaba familiarizado con él. Metió el sobre en una página determinada, con alguna fórmula que había escogido. El profesor dijo que hay un sistema para encontrar la fórmula que se desee; basta con saberlo. ¿No es cierto, profesor?
 
@@ -421,7 +421,7 @@ Así que, como no tengo fe en los testigos, acometí el problema por el único p
 
 Hice que ella presenciara los nuevos derroteros del interrogatorio, y si éste no delataba su culpabilidad, tal vez lo hicieran sus nervios.
 
-Por su aspecto no podía decir cómo sería de bueno ese «tal vez». Susan Morey se sentó ante su mesa, con las.manos entrelazadas ante sí, la mirada fría y la piel tirante en torno a las ventanas de su nariz.
+Por su aspecto no podía decir cómo sería de bueno ese «tal vez». Susan Morey se sentó ante su mesa, con las manos entrelazadas ante sí, la mirada fría y la piel tirante en torno a las ventanas de su nariz.
 
 En primer lugar entró el pequeño peletero alemán; parecía enfermo de preocupación.
 
@@ -467,15 +467,15 @@ Contestó, como alguien que está deseando dar por terminado un interrogatorio.
 
 -Hablé con ella, con esa joven que está ahí junto a mesa.
 
--Es cierto \~-dijo Susan con calma.
+-Es cierto -dijo Susan con calma.
 
 Mis esperanzas de que la traicionaran sus nervios se hundieron.
 
-¿Podría jurarlo? -pregunté al peletero.
+-¿Podría jurarlo? -pregunté al peletero.
 
 -No -contestó éste inmediatamente.
 
--Muy bien. Hathaway, llevátelo. Mándalo a su casa.
+-Muy bien. Hathaway, llévatelo. Mándalo a su casa.
 
 El profesor Rodney se inclinó para tocarme en el codo. 
 
@@ -495,17 +495,17 @@ El profesor negó ligeramente con la cabeza. Me susurró de nuevo:
 
 Me encogí de hombros. Podía imaginarme lo que pasaría si presentaba una prueba de esa naturaleza ante el comisario.
 
- 
+* * *
 
-Cuatro de los estudiantes carecían de interés y los despachamos en poco tiempo. Estaban embebidos en sus ,investigaciones. Sabían qué libros querían y en qué estantes estaban. Fueron directamente al sitio sin detenerse en la mesa de recepción. Ninguno pudo decir si era Susan o Louella-Marie la que estaba en la mesa en determinado ,momento. Ninguno había levantado la vista siquiera de sus libros, según decían, hasta que el grito vino a alterarlo todo.
+Cuatro de los estudiantes carecían de interés y los despachamos en poco tiempo. Estaban embebidos en sus investigaciones. Sabían qué libros querían y en qué estantes estaban. Fueron directamente al sitio sin detenerse en la mesa de recepción. Ninguno pudo decir si era Susan o Louella-Marie la que estaba en la mesa en ese determinado momento. Ninguno había levantado la vista siquiera de sus libros, según decían, hasta que el grito vino a alterarlo todo.
 
 El quinto era Peter van Norden. Mantuvo los ojos firmemente fijos en su pulgar derecho, que tenía una uña muy mordida. No miró a Susan cuando le hicieron entrar.
 
 Se sentó y le dejé un rato para que se relajara.
 
--¿Qué está haciendo aquí en esta época del año? je finalmente-. Tengo entendido que es período de va. caciones.
+-¿Qué está haciendo aquí en esta época del año? -dije finalmente-. Tengo entendido que es período de vacaciones.
 
--Mis exámenes finales serán el mes, que viene. Estoy estudiando. Son exámenes de grado. Si apruebo obtendré el doctorado, ¿sabe?
+-Mis exámenes finales serán el mes que viene. Estoy estudiando. Son exámenes de grado. Si apruebo obtendré el doctorado, ¿sabe?
 
 -Supongo que se detuvo en la mesa de recepción al entrar aquí -dije.
 
@@ -513,7 +513,7 @@ Masculló algo.
 
 -¿Cómo? -pregunté.
 
--Que no -dijo en una voz baja, casi tan baja como antes- Que no creo que me detuviera en la mesa.
+-Que no -dijo en una voz baja, casi tan baja como antes-. Que no creo que me detuviera en la mesa.
 
 -¿No lo cree?
 
@@ -539,19 +539,15 @@ Alzó la vista con incomodada indignación:
 
 -Le digo que la cosa no era así.
 
-Se estaba lavando las manos en el asunto con demasiado
+Se estaba lavando las manos en el asunto con demasiado interés, parecía como enterrado en una montaña de espuma invisible.
 
-importa el nombre
+-¿Usted qué dice? -pregunté de pronto, dirigiéndome Susan-. ¿Se detuvo en la mesa?
 
-interés, parecía como enterrado en una montaña de uma invisible.
-
--¿Usted qué dice? -pregunté de pronto, dirigiéndoa Susan-. ¿Se detuvo en la mesa?
-
- -Me saludó al pasar –contestó-. cierto, Peter?
+-Me saludó al pasar –contestó-. cierto, Peter?
 
 -No recuerdo -respondió adusto-. Puede que sí.
 
- -¿Y qué?
+-¿Y qué?
 
 -Nada -dije-. En mi interior deseé que Susan saboreara el fruto de su acción. Si había matado para ganarse a este ejemplar, había perdido el tiempo. Estaba seguro de que en adelante la ignoraría, aunque la viera caer de un segundo piso y fuera a darle en su misma cara.
 
@@ -559,15 +555,15 @@ Susan debió de darse cuenta de ello también. Por la mirada que le echó a Pete
 
 Hice una seña a Hathaway para que se lo llevara. Hathaway se levantó cumpliendo mi orden, y le preguntó:
 
--Dígame, ¿ha utilizado. alguna vez esos libros? -señaló los estantes donde se alineaban los sesenta y tantos volúmenes de la enciclopedia de química orgánica desde el suelo hasta el techo.
+-Dígame, ¿ha utilizado alguna vez esos libros? -señaló los estantes donde se alineaban los sesenta y tantos volúmenes de la enciclopedia de química orgánica desde el suelo hasta el techo.
 
 El muchacho miró por encima del hombro y contestó con sincera sorpresa:
 
--Claro. Tengo que consultarlos. ¡Vaya!, ¿hay algo malo en consultar fórmulas en el Beils?…
+-Claro. Tengo que consultarlos. ¡Vaya!, ¿hay algo malo en consultar fórmulas en el Beils?
 
 -Nada, de acuerdo -le confirmé-. Anda, Ed.
 
-Ed Hathaway me miró con el ceño fruncido y se llevó almuchacho. Le cuesta tener que renunciar a una teoría desechada.
+Ed Hathaway me miró con el ceño fruncido y se llevó al muchacho. Le cuesta tener que renunciar a una teoría desechada.
 
 Eran alrededor de las seis, y veía que no podía hacerse mucho más. Tal como estaba el asunto, era la palabra de Susan contra la de nadie. Si se hubiera tratado de un maleante con antecedentes, habríamos podido sacarle la verdad por medio de una serie de métodos eficaces, aunque fastidiosos. Pero en este caso, no era aconsejable emplear procedimientos de ese tipo.
 
@@ -589,7 +585,7 @@ Parecía evitar deliberadamente la familiaridad del nombre de pila.
 
 Ella le miró. Por un momento pareció ponerse nerviosa, pero se le pasó y se sintió de nuevo tranquila.
 
--¿ Sí, profesor?
+-¿Sí, profesor?
 
 -Señorita Morey, usted sonrió cuando el peletero le dijo a qué había venido. ¿Por qué lo hizo? -preguntó el profesor.
 
@@ -599,7 +595,7 @@ Ella le miró. Por un momento pareció ponerse nerviosa, pero se le pasó y se s
 
 -Tan sólo intentaba ser amable -insistió ella.
 
--Jal vez le pareció divertido su nombre, señorita Morey?
+-Tal vez le pareció divertido su nombre, señorita Morey?
 
 -No especialmente -contestó con indiferencia.
 
@@ -623,11 +619,11 @@ Por mi parte, tenía que admitir que no comprendía lo que el profesor pretendí
 
 -¿Qué está intentando probar, profesor Rodney?
 
--Estoy intentando probar -dijo preso de una gran tensión-, de hecho estoy probando, que fue Louella-Maríe, la joven muerta, la que estaba en la mesa de recepción cuando entró el peletero. Le dijo su apellido a Louella-Marie y ella sonrió en consecuencia. Era la señorita Morey la que salía del despacho interior cuando él se volvió para marcharse. Era la señorita Morey, esta joven, quien acababa de preparar y envenenar el té.
+-Estoy intentando probar -dijo preso de una gran tensión-, de hecho estoy probando, que fue Louella-Marie, la joven muerta, la que estaba en la mesa de recepción cuando entró el peletero. Le dijo su apellido a Louella-Marie y ella sonrió en consecuencia. Era la señorita Morey la que salía del despacho interior cuando él se volvió para marcharse. Era la señorita Morey, esta joven, quien acababa de preparar y envenenar el té.
 
--¡Se basa usted en el hecho de que no puedo recordar el nombre de ese hombre! --chilló Susan Morey-. Eso es ridículo.
+-¡Se basa usted en el hecho de que no puedo recordar el nombre de ese hombre! -chilló Susan Morey-. Eso es ridículo.
 
--No, no lo es -dijo el profesor-. Si usted hubiera sido la joven que estaba en la mesa de recepción recordaría ese nombre. Le habría sido imposible olvidarlo. Si hubiera sido usted la que estaba en la mesa de recepción -levantó la tarjeta de Hathaway. Y continuó-: El nombre del peletero es Ernest, pero su apellido es Beilstein. ¡Su apellido es Beilstein!
+-No, no lo es -dijo el profesor-. Si usted hubiera sido la joven que estaba en la mesa de recepción recordaría ese nombre. Le habría sido imposible olvidarlo. Si hubiera sido usted la que estaba en la mesa de recepción -levantó la tarjeta de Hathaway. Y continuó-. El nombre del peletero es Ernest, pero su apellido es Beilstein. ¡Su apellido es Beilstein!
 
 Susan dejó escapar el aire como si le hubieran dado una patada en el estómago. Se puso tan blanca como el polvo de talco.
 
@@ -637,6 +633,6 @@ El profesor continuó excitado:
 
 Me puse en pie y dije con severidad:
 
--¿Y bien, señorita Morey?---dejé también de llamarla por el nombre de pila-, ¿qué dice usted a eso?
+-Y bien, señorita Morey -dejé también de llamarla por el nombre de pila-, ¿qué dice usted a eso?
 
 Se puso a chillar histérica, como si quisiera rompernos los tímpanos. Media hora después teníamos su confesión.
