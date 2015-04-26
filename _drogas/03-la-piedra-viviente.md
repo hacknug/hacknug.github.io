@@ -11,7 +11,7 @@ Cuando el Robert Q. aterrizó en la plataforma exterior de la Estación Cinco, V
 
 El hecho de que el capitán del Robert Q. acogiera sus risas con el silencio severo y desabrido que se reflejaba pesadamente en su rostro de toscas facciones, no importaba en absoluto. Para. Vernadsky, la nave representaba la tan deseada compañía y era bien venida. A su disposición ponía la cantidad que quisiera de los millones de galones de hielo y las toneladas de concentrados de alimentos congelados que se almacenaban en el interior del asteroide hueco que servía de Estación Cinco. Vernadsky tenía lista toda clase de herramental eléctrico que pudiera hacer falta, toda clase de recambios necesarios para un motor ultra-atómico.
 
-Todo el semblante juvenil de Vernasdky irradiaba alegría mientras rellenaba el impreso rutinario, tomando rápidamente anotaciones que más tarde pasaría a datos de computadora para archivarlos. Anotó el nombre de la nave y su número de serie, el número de motor, número del generador de campo y demás, puerto de embarque («hemos tocado un montón de puertos por todos estos malditos asteroides, ya no recuerdo cuál fue el último», y Vernadsky escribió simplemente «Cinturón», que era la abreviatura usual de «Cinturón de Asteroides»); puerto de destino («la Tierra»); motivo de su escala («fallos en la transmisión ultra-atómica»).
+Todo el semblante juvenil de Vernadsky irradiaba alegría mientras rellenaba el impreso rutinario, tomando rápidamente anotaciones que más tarde pasaría a datos de computadora para archivarlos. Anotó el nombre de la nave y su número de serie, el número de motor, número del generador de campo y demás, puerto de embarque («hemos tocado un montón de puertos por todos estos malditos asteroides, ya no recuerdo cuál fue el último», y Vernadsky escribió simplemente «Cinturón», que era la abreviatura usual de «Cinturón de Asteroides»); puerto de destino («la Tierra»); motivo de su escala («fallos en la transmisión ultra-atómica»).
 
 -¿Cuántos componen su tripulación, capitán? -preguntó Vernadsky mientras revisaba la documentación de la nave.
 
@@ -35,7 +35,7 @@ No pudo evitar hacerse sus reflexiones acerca del capitán. A pesar de la aversi
 
 -Hago lo que puedo, capitán.
 
-La última observación del capitán fue lo bastante áspera como para desanimar incluso a Vernasdky. Durante un rato trabajó en silencio; luego se puso en pie.
+La última observación del capitán fue lo bastante áspera como para desanimar incluso a Vernadsky. Durante un rato trabajó en silencio; luego se puso en pie.
 
 -Tiene usted velado un semirreflector gamma. Cada vez que el haz de positrones completa el ciclo de su recorrido, la transmisión vacila un segundo. Tendrá que cambiarlo.
 
@@ -55,7 +55,7 @@ Debido a que andaba con la atención puesta enteramente en el bidón de helio, s
 
 Sólo tuvo tiempo de dar un grito de sorpresa, y acudieron precipitadamente dos hombres que les echaron fuera, a él y al bidón, y cerraron la puerta.
 
-Guardó silencio mientras ajustaba el bidón a la válvula de entrada del motor y escuchaba el ruido suave, como un suspiro prolongado, que el helio producía a medida que inundaba el interior, barriendo lentamente los gases empadados de radiactividad hacia el espacio vacío que todo lo admite.
+Guardó silencio mientras ajustaba el bidón a la válvula de entrada del motor y escuchaba el ruido suave, como un suspiro prolongado, que el helio producía a medida que inundaba el interior, barriendo lentamente los gases radioactivos absorbidos hacia el espacio vacío que todo lo admite.
 
 Su curiosidad se impuso sobre su prudencia, y dijo: 
 
@@ -109,9 +109,9 @@ En la achatada base de la criatura, oculta a la vista a menos que pusieran del r
 
 ¡Qué desconcertados se sintieron los extraterrólogos ante los suaves guijarros diseminados por las pequeñas operarias de las estructuras rocosas de los asteroides, hasta que fueron descubiertas las primeras siliconias! ¡Y cómo se maravillaban después al ver la manera con que estas criaturas hacían que las siliconias -estos polímeros de silicona y oxígeno con cadenas laterales de hidrocarburo- realizaran esa multiplicidad de funciones que las proteínas realizan en la vida terrestre!
 
-De lo más alto del dorso de la criatura surgían los restantes apéndices, dos conos invertidos, huecos y en direcciones opuestas, que encajaban cómodamente en sus correspondientes huecos situados a lo largo del dorso y ían levantarse un poco hacia arriba.
+De lo más alto del dorso de la criatura surgían los restantes apéndices, dos conos invertidos, huecos y en direcciones opuestas, que encajaban cómodamente en sus correspondientes huecos situados a lo largo del dorso y podían levantarse un poco hacia arriba.
 
-Cuando la siliconia horadaba la roca, plegaba las «orejas» para ofrecer el menor obstáculo posible en su avance. Cuando descansaba en su caverna excavada, las sacaba para poder captar mejor y con más sensibilidad. El vago parecido que tenían con las orejas de un conejo hacían inevitable el nombre de siliconia. Los extraterrólogos más serios, que se referían habitualmente a esas criaturas con el nombre de Siliconeus asteroidea, pensaban que las «orejas» debían tener alguna relación con los rudimentarios poderes telepáticos que tales bestias poseían. Pero había también una minoría que sostenía otras hipótesis. La siliconia se deslizaba lentamente por encima de una roca untada de aceite. En un rincón del compartimiento había un montón más de rocas esparcidas, que, como Vernadsky sabía, constituían el alimento de aquella criatura. O al menos la necesitaba para la formación de sus tejidos. Porque, según había leído, eso sólo no bastaba para proporcionarle toda su energía.
+Cuando la siliconia horadaba la roca, plegaba las «orejas» para ofrecer el menor obstáculo posible en su avance. Cuando descansaba en su caverna excavada, las sacaba para poder captar mejor y con más sensibilidad. El vago parecido que tenían con las orejas de un conejo hacían inevitable el nombre de siliconia. Los extraterrólogos más serios, que se referían habitualmente a esas criaturas con el nombre de _Siliconeus asteroidea_, pensaban que las «orejas» debían tener alguna relación con los rudimentarios poderes telepáticos que tales bestias poseían. Pero había también una minoría que sostenía otras hipótesis. La siliconia se deslizaba lentamente por encima de una roca untada de aceite. En un rincón del compartimiento había un montón más de rocas esparcidas, que, como Vernadsky sabía, constituían el alimento de aquella criatura. O al menos la necesitaba para la formación de sus tejidos. Porque, según había leído, eso sólo no bastaba para proporcionarle toda su energía.
 
 Vernadsky estaba maravillado.
 
@@ -185,7 +185,7 @@ El tipo ese lleva una a bordo. Dice que es su mascota y la alimenta con rocas gr
 
 -¡Bah! Un minero de la ruta de los asteroides sería capaz de convertir un pedazo de queso en su mascota, si pudiera hacer que le diera conversación.
 
--Pero no es una siliconía normal y corriente. No se trata de una de esas que tienen unos pocos centímetros. Tiene más de treinta centímetros de ancho. ¿No lo comprendes? ¡Espacio! Yo creía que un tipo que vive aquí tenia que saber algo sobre los asteroides.
+-Pero no es una siliconia normal y corriente. No se trata de una de esas que tienen unos pocos centímetros. Tiene más de treinta centímetros de ancho. ¿No lo comprendes? ¡Espacio! Yo creía que un tipo que vive aquí tenia que saber algo sobre los asteroides.
 
 -Está bien. ¿Por qué me lo cuentas?
 
@@ -213,7 +213,7 @@ El tipo ese lleva una a bordo. Dice que es su mascota y la alimenta con rocas gr
 
 -Sigue.
 
--Suponte que hace estallar algún pedazo de roca para hacer una comprobación, y descubre una siliconia gigante.. Entonces se da cuenta de que ha descubierto el filón más increíble de la historia. Y no necesita investigaciones. La silíconia puede guiarle a las vetas ricas.
+-Suponte que hace estallar algún pedazo de roca para hacer una comprobación, y descubre una siliconia gigante.. Entonces se da cuenta de que ha descubierto el filón más increíble de la historia. Y no necesita investigaciones. La siliconia puede guiarle a las vetas ricas.
 
 -¿Por qué?
 
@@ -429,7 +429,7 @@ Vernadsky movió la cabeza.
 
 -Una fortuna en uranio -dijo-. El mayor. filón de la historia, y no sabemos dónde está.
 
-H. Seton Davenport miró a su alreredor con una extraña sensación de placer. Aun relajado, su arrugado rostro de pronunciada nariz mostraba habitualmente cierta expresión de dureza. La cicatriz de su mejilla derecha, su pelo negro, sus cejas asombradas y el color moreno de su piel, todo contribuía hasta en el menor detalle a darle el aspecto de incorruptible agente de la Oficina Terrestre de Investigación, como así era.
+H. Seton Davenport miró a su alrededor con una extraña sensación de placer. Aun relajado, su arrugado rostro de pronunciada nariz mostraba habitualmente cierta expresión de dureza. La cicatriz de su mejilla derecha, su pelo negro, sus cejas asombradas y el color moreno de su piel, todo contribuía hasta en el menor detalle a darle el aspecto de incorruptible agente de la Oficina Terrestre de Investigación, como así era.
 
 Sin embargo, una especie de sonrisa asomó a sus labios mientras contemplaba la gran habitación, en donde la penumbra hacía parecer infinitas las filas de libro-films, y daba un relieve misterioso a unos ejemplares de no-se-sabe-qué procedentes de Dios-sabe-dónde. El desorden total, el aire de separación y casi aislamiento del mundo, daban un aspecto irreal a la habitación. La hacían parecer tan irreal como su propietario.
 
@@ -463,7 +463,7 @@ El doctor Urth terminó de leerlos, dejó los papeles sobre la mesa; dio un tir�
 
 -¿Qué tamaño tendría ese mundo? 
 
--Una milla de diámetro, tal vez -dijo el extraterrálogo pensativo-. Puede que más.
+-Una milla de diámetro, tal vez -dijo el extraterrólogo pensativo-. Puede que más.
 
 -¿Y cuántas toneladas de uranio, o, mejor dicho, de material radiactivo?
 
@@ -499,7 +499,7 @@ Davenport dirigió al extraterrólogo una repentina y aguda mirada. A pesar de l
 
 -¿Recompensa?
 
--O mis honorarios, si así lo prefiere. Cuando el Gobierno llegue al asteroide, puede que haya allí otra siliconia de gran tamaño. Las siliconias son muy valiosas. Es la única forma de vida que tienen los tejidos de siliconia sólida y el fluído circulatorio de siliconia líquida. Puede que esté en ellas la respuesta a la cuestión de si los asteroides no fueron en un principio sino partes de un único cuerpo planetario. Y de otros muchos problemas… ¿Me comprende?
+-O mis honorarios, si así lo prefiere. Cuando el Gobierno llegue al asteroide, puede que haya allí otra siliconia de gran tamaño. Las siliconias son muy valiosas. Es la única forma de vida que tienen los tejidos de siliconia sólida y el fluido circulatorio de siliconia líquida. Puede que esté en ellas la respuesta a la cuestión de si los asteroides no fueron en un principio sino partes de un único cuerpo planetario. Y de otros muchos problemas… ¿Me comprende?
 
 -¿Quiere decir que desea que se le entregue una siliconia de gran tamaño?
 
@@ -630,6 +630,8 @@ Por último, Davenport dejó escapar un suspiro, mezcla de satisfacción y de fr
 Sonrió.
 
 -Y si es posible que sepa silbar -dijo Davenport. Y eso iba haciendo él mientras regresaba.
+
+----
 
 _EPILOGO_
 
