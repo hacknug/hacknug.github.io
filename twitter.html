@@ -1,0 +1,12 @@
+---
+layout: page
+title: Twitter
+---
+
+<div class="posts">
+  <p>Aquesta pàgina llista cada una de les col·leccions existents de la pàgina i enllaça a cada un dels seus elements.</p>
+
+  {% for artist in site.data.twittery.users %}
+    <h2>@{{ artist.screen_name }}</h2>
+  {% endfor %}
+</div>
