@@ -1,10 +1,8 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Gaea Project
@@ -24,6 +22,9 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+# Gems
+gems:             [jekyll-paginate, jekyll-gist]
 
 # Colecciones
 collections:
